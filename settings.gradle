@@ -1,0 +1,7 @@
+include ':okhttp-4.10.0-RC1'
+include ':converter-scalars-2.9.0'
+include ':converter-gson-2.9.0'
+include ':retrofit-2.9.0'
+include ':retrofit-2.9.0'
+include ':app'
+rootProject.name = "AsyncLearning"
